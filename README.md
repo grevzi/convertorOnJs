@@ -1,4 +1,4 @@
-#ConstructorOnJs
+# ConstructorOnJs
 
 Base example of using classes on vanilla JS.
 
